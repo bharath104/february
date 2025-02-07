@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 hello all welocme to devops practice for final mock and interview
 devops have a bright future 
+=======
+hello all welocme to devops practice for final mock and interview 
+practice git docker kubernetes jenkins 
+>>>>>>> developer
+merge
