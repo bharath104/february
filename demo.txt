@@ -1,1 +1,2 @@
 hello all welocme to devops practice for final mock and interview 
+practice git docker kubernetes jenkins 
